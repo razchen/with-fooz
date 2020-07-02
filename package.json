@@ -1,0 +1,17 @@
+{
+  "name": "with-fooz",
+  "version": "1.0.0",
+  "description": "cover with fooz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "with",
+    "fooz"
+  ],
+  "author": "Raz Weizman",
+  "license": "ISC"
+}
